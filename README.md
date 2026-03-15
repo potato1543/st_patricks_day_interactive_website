@@ -2,8 +2,6 @@
 
 A fun, fully interactive St. Patrick's Day web experience built with pure vanilla HTML, CSS, and JavaScript. No frameworks. No libraries. Just one file.
 
-![St. Patrick's Day Preview](preview.png)
-
 ## ✨ Features
 
 - 🌈 **Rainbow over the mountains** — seven-band SVG rainbow arching over layered green Irish mountains
