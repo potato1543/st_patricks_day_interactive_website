@@ -20,7 +20,7 @@ A fun, fully interactive St. Patrick's Day web experience built with pure vanill
 
 ## 🚀 Live Demo
 
-👉 **[Try it here](https://yourusername.github.io/st-patricks-day/)**
+👉 **[Try it here](https://potato1543.github.io/st_patricks_day_interactive_website/)**
 
 ## 📁 Project Structure
 
