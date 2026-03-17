@@ -36,8 +36,8 @@ Everything — markup, styles, and scripts — is contained in a single `index.h
 No build step needed. Just clone and open:
 
 ```bash
-git clone https://github.com/yourusername/st-patricks-day.git
-cd st-patricks-day
+git clone https://github.com/yourusername/st_patricks_day_interactive_website.git
+cd st_patricks_day_interactive_website
 open index.html
 ```
 
@@ -49,7 +49,7 @@ Or simply drag `index.html` into any browser.
 2. Go to **Settings** → **Pages**
 3. Under "Branch" select `main` and folder `/ (root)`
 4. Click **Save**
-5. Your site will be live at `https://yourusername.github.io/st-patricks-day/`
+5. Your site will be live at `https://yourusername.github.io/st_patricks_day_interactive_website/`
 
 Takes about 60 seconds to go live.
 
