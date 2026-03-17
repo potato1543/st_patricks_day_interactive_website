@@ -43,16 +43,6 @@ open index.html
 
 Or simply drag `index.html` into any browser.
 
-## 🌐 Deploying to GitHub Pages
-
-1. Push this repo to GitHub (must be **public**)
-2. Go to **Settings** → **Pages**
-3. Under "Branch" select `main` and folder `/ (root)`
-4. Click **Save**
-5. Your site will be live at `https://yourusername.github.io/st_patricks_day_interactive_website/`
-
-Takes about 60 seconds to go live.
-
 ## 🎨 How It Works
 
 ### The scene
