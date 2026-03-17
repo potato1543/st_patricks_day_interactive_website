@@ -25,7 +25,7 @@ A fun, fully interactive St. Patrick's Day web experience built with pure vanill
 ## 📁 Project Structure
 
 ```
-st-patricks-day/
+st_patricks_day_interactive_website/
 └── index.html    ← the entire project lives here
 ```
 
